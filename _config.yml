@@ -10,7 +10,7 @@ twitter_username: laurenhaldeman
 github_username:  wlftn
 facebook_username:  laurenhaldeman
 email_username:  haldeman.lauren@gmail.com
-
+timezone: America/Chicago
 # Google Analytics
 # To enable google analytics, uncomment below line with a valid Google Tracking ID
 # google_tracking_id:
